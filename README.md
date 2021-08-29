@@ -1,4 +1,4 @@
-Este é o Desafio 9 do curso de HTML5 do curso em Vídeo. 
+Este é o Desafio 9 do curso de HTML5 do Curso em Vídeo. 
 
 
 A intenção desse desafio é pôr em prática os assuntos abortados em aula. 
